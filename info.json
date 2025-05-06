@@ -1,7 +1,23 @@
 {
-    "name": "TDAH Coin",
-    "symbol": "TDAH",
-    "decimals": 18,
-    "status": "active",
-    "id": "0x472e98F3aD335F36741A40e6765749E6593b3C4"
+  "name": "TDAH Coin",
+  "symbol": "TDAH",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "TDAH Coin is a creative, decentralized and humorous token designed for hyperactive minds. A rocket, a brain, and a mission to bring fun to crypto.",
+  "website": "https://github.com/macriptofin/tdah-coin",
+  "explorer": "https://bscscan.com/token/0x472e98F3aD335F36741A40e6765749E6593b3C4",
+  "status": "active",
+  "id": "tdah-coin",
+  "logo": {
+    "src": "https://gateway.pinata.cloud/ipfs/bafybeifdn5ft2t466uklab6etbcfkuy723seljtznuwspykn4ohwpeimz4",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": "bafybeifdn5ft2t466uklab6etbcfkuy723seljtznuwspykn4ohwpeimz4"
+  },
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/macriptofin/tdah-coin"
+    }
+  ]
 }
